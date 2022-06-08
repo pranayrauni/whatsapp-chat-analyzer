@@ -1,4 +1,4 @@
-stremlit
+streamlit==1.9.0
 matplotlib
 seaborn
 urlextract
